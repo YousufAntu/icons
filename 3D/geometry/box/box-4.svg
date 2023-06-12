@@ -1,0 +1,34 @@
+<svg width="256mm" height="256mm" version="1.1" viewBox="0 0 3e3 3e3" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title>box-4</title>
+ <g transform="translate(-17.525 -15.537)" fill="#699" fill-opacity=".90196" stroke-opacity="0">
+  <path transform="translate(-2.0035e-5 -.0012701)" d="m1517.5 172.13a229.14 229.14 0 0 0-114.57 30.698l-965.11 557.21a229.13 229.13 0 0 0-114.56 198.44l0.0284 1114.1a229.14 229.14 0 0 0 114.57 198.44l965.1 557.2a229.14 229.14 0 0 0 229.14 0l965.06-557.18a229.14 229.14 0 0 0 114.57-198.44v-1114.2a229.14 229.14 0 0 0-114.57-198.44l-965.09-557.19a229.14 229.14 0 0 0-114.57-30.698zm-5e-4 110.01a229.14 229.14 0 0 1 114.57 30.698l869.81 502.19a229.14 229.14 0 0 1 114.57 198.44v1004.2a229.14 229.14 0 0 1-114.57 198.44l-869.79 502.17a229.14 229.14 0 0 1-229.14 0l-869.82-502.19a229.14 229.14 0 0 1-114.57-198.44l-0.02584-1004.1a229.13 229.13 0 0 1 114.56-198.44l869.83-502.2a229.14 229.14 0 0 1 114.57-30.698z" opacity=".9"/>
+  <path d="m437.89 963.44 903.44 521.6a229.14 229.14 60 0 1 114.57 198.44v1043a76.379 76.379 150 0 1-114.57 66.146l-903.44-521.6a229.14 229.14 60 0 1-114.57-198.44v-1043a76.379 76.379 150 0 1 114.57-66.146z" opacity=".9"/>
+  <path d="m2597.2 963.46-903.44 521.6a229.14 229.14 120 0 0-114.57 198.44v1043a76.379 76.379 30 0 0 114.57 66.146l903.44-521.6a229.14 229.14 120 0 0 114.57-198.44v-1043a76.379 76.379 30 0 0-114.57-66.146z" opacity=".9"/>
+  <path d="m499.68 856.63 903.44 521.6a229.14 229.14 1.8155e-6 0 0 229.14 0l903.28-521.51a76.379 76.379 90 0 0 0-132.29l-903.44-521.6a229.14 229.14 2.0345e-6 0 0-229.14-1e-5l-903.28 521.51a76.379 76.379 90 0 0-1e-5 132.29z" opacity=".9"/>
+ </g>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:date>13-Jun-2023</dc:date>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Yousuf Ahmed Antu</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:publisher>
+     <cc:Agent>
+      <dc:title>https://github.com/YousufAntu/icons/</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+    <dc:language>English</dc:language>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title>Yousuf Ahmed Antu</dc:title>
+     </cc:Agent>
+    </dc:contributor>
+    <dc:title>box-4</dc:title>
+    <cc:license rdf:resource="https://www.apache.org/licenses/LICENSE-2.0"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+</svg>
